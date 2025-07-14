@@ -1,0 +1,969 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MoonBucksCafe.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MoonBucksCafe.bwvcbporqu.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\content\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\READ-ME.txt",
+      "PackagePath": "staticwebassets\\content\\READ-ME.txt"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\WhatsApp Image 2025-03-17 at 17.20.48.jpeg",
+      "PackagePath": "staticwebassets\\content\\WhatsApp Image 2025-03-17 at 17.20.48.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\about.html",
+      "PackagePath": "staticwebassets\\content\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\coffee-shop-html-template.jpg",
+      "PackagePath": "staticwebassets\\content\\coffee-shop-html-template.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\contact.html",
+      "PackagePath": "staticwebassets\\content\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\css\\style.css",
+      "PackagePath": "staticwebassets\\content\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\content\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\MilkSha.jpg",
+      "PackagePath": "staticwebassets\\content\\img\\MilkSha.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\about.png",
+      "PackagePath": "staticwebassets\\content\\img\\about.png"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\bg.jpg",
+      "PackagePath": "staticwebassets\\content\\img\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\blackcoffee.jpeg",
+      "PackagePath": "staticwebassets\\content\\img\\blackcoffee.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\breadomellete.jpeg",
+      "PackagePath": "staticwebassets\\content\\img\\breadomellete.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\bubble coffee.jpeg",
+      "PackagePath": "staticwebassets\\content\\img\\bubble coffee.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\content\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\content\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\chocolatecoffee.jpeg",
+      "PackagePath": "staticwebassets\\content\\img\\chocolatecoffee.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\coffee.jpeg",
+      "PackagePath": "staticwebassets\\content\\img\\coffee.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\eggpuff.jpeg",
+      "PackagePath": "staticwebassets\\content\\img\\eggpuff.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\expresso.jpeg",
+      "PackagePath": "staticwebassets\\content\\img\\expresso.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\french fries.jpeg",
+      "PackagePath": "staticwebassets\\content\\img\\french fries.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\herbal coffee.jpeg",
+      "PackagePath": "staticwebassets\\content\\img\\herbal coffee.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\herbal.jpeg",
+      "PackagePath": "staticwebassets\\content\\img\\herbal.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\imgcards.png",
+      "PackagePath": "staticwebassets\\content\\img\\imgcards.png"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\login_page_image.jpeg",
+      "PackagePath": "staticwebassets\\content\\img\\login_page_image.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\menu-1.jpg",
+      "PackagePath": "staticwebassets\\content\\img\\menu-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\menu-2.jpg",
+      "PackagePath": "staticwebassets\\content\\img\\menu-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\menu-3.jpg",
+      "PackagePath": "staticwebassets\\content\\img\\menu-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\milkshack.jpeg",
+      "PackagePath": "staticwebassets\\content\\img\\milkshack.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\overlay-bottom.png",
+      "PackagePath": "staticwebassets\\content\\img\\overlay-bottom.png"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\overlay-top.png",
+      "PackagePath": "staticwebassets\\content\\img\\overlay-top.png"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\registration page.jpeg",
+      "PackagePath": "staticwebassets\\content\\img\\registration page.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\service-1.jpg",
+      "PackagePath": "staticwebassets\\content\\img\\service-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\service-2.jpg",
+      "PackagePath": "staticwebassets\\content\\img\\service-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\service-3.jpg",
+      "PackagePath": "staticwebassets\\content\\img\\service-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\service-4.jpg",
+      "PackagePath": "staticwebassets\\content\\img\\service-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\content\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\content\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\content\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\content\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\upi.jpeg",
+      "PackagePath": "staticwebassets\\content\\img\\upi.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\img\\upipay.jpeg",
+      "PackagePath": "staticwebassets\\content\\img\\upipay.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\index.html",
+      "PackagePath": "staticwebassets\\content\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\js\\main.js",
+      "PackagePath": "staticwebassets\\content\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\js\\script.js",
+      "PackagePath": "staticwebassets\\content\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\content\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\content\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\content\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\content\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\content\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\content\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\content\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\content\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\content\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\content\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\content\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\content\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\content\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\content\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\content\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\content\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\content\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\content\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\content\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\content\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\content\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\mail\\contact.js",
+      "PackagePath": "staticwebassets\\content\\mail\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\mail\\contact.php",
+      "PackagePath": "staticwebassets\\content\\mail\\contact.php"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\mail\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\content\\mail\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\menu.html",
+      "PackagePath": "staticwebassets\\content\\menu.html"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\reservation.html",
+      "PackagePath": "staticwebassets\\content\\reservation.html"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\bootstrap.css",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\content\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\service.html",
+      "PackagePath": "staticwebassets\\content\\service.html"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\content\\testimonial.html",
+      "PackagePath": "staticwebassets\\content\\testimonial.html"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\css\\cart.css",
+      "PackagePath": "staticwebassets\\css\\cart.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\css\\payment.css",
+      "PackagePath": "staticwebassets\\css\\payment.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\js\\Cart.js",
+      "PackagePath": "staticwebassets\\js\\Cart.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sai Aditi\\source\\repos\\MoonBucksCafe\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MoonBucksCafe.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MoonBucksCafe.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MoonBucksCafe.props",
+      "PackagePath": "build\\MoonBucksCafe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MoonBucksCafe.props",
+      "PackagePath": "buildMultiTargeting\\MoonBucksCafe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MoonBucksCafe.props",
+      "PackagePath": "buildTransitive\\MoonBucksCafe.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
