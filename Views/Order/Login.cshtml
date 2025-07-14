@@ -1,0 +1,92 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<!-- Coding By CodingNepal - www.codingnepalweb.com -->
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glassmorphism Login Form | CodingNepal</title>
+	
+	<link href="~/css/login.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="wrapper">
+        <div>
+            <h2>Login</h2>
+            <div class="input-field">
+                <input type="text" required id="Email">
+                <label>Enter your email</label>
+            </div>
+            <div class="input-field">
+                <input type="password" required id="Password">
+                <label>Enter your password</label>
+            </div>
+            <div class="forget">
+                <label for="remember">
+                    <input type="checkbox" id="remember">
+                    <p>Remember me</p>
+                </label>
+                <a href="#">Forgot password?</a>
+            </div>
+            <button type="submit" onclick="fnSignin()">Log In</button>
+            <div class="register">
+                <p>Don't have an account? <a href="/Order/Register">Register</a></p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+
+    function fnSignin() {
+          // Get the values from the form
+          var Email = $("#Email").val();
+          var Password = $("#Password").val();
+
+          if(Email==""){
+              alert("Enter the Email");
+              return;
+          }
+          else if(Password==""){
+              alert("Enter the Password");
+              return;
+          }
+          // Prepare the data to send in the request
+          var data = {
+              Email: Email,
+              Password: Password
+          };
+
+          // Send AJAX request
+          $.ajax({
+              url: '/Order/Login', // MVC controller action
+              type: 'POST',  // Use POST for sending data
+              data: data,  
+              xhrFields: {
+            withCredentials: true // Send cookies (authentication cookie)
+             },
+              success: function(response) {
+                  // Handle success
+                  if (response.success) {
+                      // Redirect to a different page or display success message
+                      window.location.href = response.url;  // For example
+                  } else {
+                      // Show an error message if login failed
+                      alert(response.message); // Display the error message
+                  }
+              },
+              error: function(xhr, status, error) {
+                  // Handle error
+                  console.log('Error: ' + error);
+                  alert('An error occurred while processing your request.');
+              }
+          });
+      }
+
+</script>

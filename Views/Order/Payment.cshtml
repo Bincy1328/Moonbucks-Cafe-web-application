@@ -1,0 +1,70 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Payment Gateway Form Design using HTML and CSS | Codehal</title>	
+	<link href="~/css/payment.css" rel="stylesheet" />
+</head>
+
+<body>
+    
+
+    <div class="container">
+        
+        <form action="">
+
+                       
+            <div class="row">
+                <div class="column">
+                    <h3 class="title">Card Payment</h3>
+                    <div class="input-box">
+                        <span>Cards Accepted :</span>
+                        <img src="~/content/img/imgcards.png" alt="">
+                    </div>
+                    <div class="input-box">
+                        <span>Name On Card :</span>
+                        <input type="text" placeholder="Mr. Jacob Aiden">
+                    </div>
+                    <div class="input-box">
+                        <span>Credit Card Number :</span>
+                        <input type="number" placeholder="1111 2222 3333 4444">
+                    </div>                   
+
+                    <div class="flex">
+                        <div class="input-box">
+                            <span>Exp. Year :</span>
+                            <input type="number" placeholder="2025">
+                        </div>
+                        <div class="input-box">
+                            <span>CVV :</span>
+                            <input type="number" placeholder="123">
+                        </div>
+                    </div>
+                </div>
+                <div class="column">
+                    <h3 class="title">UPI Payment</h3>
+                    <div class="input-box">
+                        <span>UPI Payment:</span>
+                        <img src="~/content/img/upipay.jpeg" style="width:19rem;height:10rem;">
+                    </div>                    
+                    <div class="input-box">
+                        <span>UPI ID :</span>
+                        <input type="number" placeholder="Enter UPI ID (example@upi)">
+                    </div>                    
+                </div>
+            </div>
+
+            <button type="submit" class="btn">Submit</button>
+        </form>
+    </div>
+
+</body>
+
+</html>

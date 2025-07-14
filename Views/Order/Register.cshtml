@@ -1,0 +1,48 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<!-- Coding By CodingNepal - www.codingnepalweb.com -->
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glassmorphism Register Form | CodingNepal</title>
+
+    <link href="~/css/login.css" rel="stylesheet" />
+    <style>
+        body::before {
+            background: url("../content/img/registration page.jpeg"), #000 !important;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <form method="POST" action="InsertUser">
+            <h2>Register</h2>
+            <div class="input-field">
+                <input type="text" name="UserName" id="UserName" required>
+                <label>Enter your User Name</label>
+            </div>
+            <div class="input-field">
+                <input type="text" name="Email" id="Email" required>
+                <label>Enter your email</label>
+            </div>
+            <div class="input-field">
+                <input type="password" name="Password" id="Password" required>
+                <label>Enter your password</label>
+            </div>
+
+            <div class="input-field">
+                <input type="number" name="Mobile" id="Mobile" required>
+                <label>Enter your mobile number</label>
+            </div>
+            <button type="submit">Register</button>
+            <div class="login">
+                <p><span style="color:white">Already had account? </span> <a href="/Order/Login">Login</a></p>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,62 @@
+﻿@model List<MoonBucksCafe.Models.TableBooking>
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Details</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="container mt-4">
+<h3 class="text-center mb-4">Booking Details</h3>
+<div class="table-responsive">
+    <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Booking Date</th>
+                <th>Booking Time</th>
+                <th>Persons</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var booking in Model)
+            {
+                <tr>
+                    <td>@booking.Id</td>
+                    <td>@booking.Name</td>
+                    <td>@booking.Email</td>
+                    <td>@booking.BookingDate</td>
+                    <td>@booking.BookingTime</td>
+                    <td>@booking.PersonCount</td>
+                    <td>
+                        @if (booking.BookingStatus != "Canceled")
+                        {
+                            <form action="@Url.Action("CancelBooking", "Order", new { id = booking.Id })" method="post" style="display:inline;">
+                                <button type="submit" class="btn btn-danger btn-sm">Cancel</button>
+                            </form>
+                        }
+                        else
+                        {
+                            <span class="badge bg-secondary">Canceled</span>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<div class="text-center mt-4">
+    <a href="/" class="btn btn-primary">Back to Home</a>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
